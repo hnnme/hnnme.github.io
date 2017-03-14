@@ -1,0 +1,7 @@
+# markdown config setting
+markdown: kramdown
+
+# base URL
+baseurl: 
+# excluded files or folders
+exclude: ['README.md']
